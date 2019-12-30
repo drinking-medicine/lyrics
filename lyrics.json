@@ -1,0 +1,12 @@
+{
+  "//1": "This is a comment, read me to get help on creating lyrics.",
+  "//2": "To add a new song to the database, add an unique identifier to root and put name, author, lyrics, url and contributors.",
+  "exampleSong": {
+    "name": "Example Song",
+    "author": "RubenVerg",
+    "//3": "Lyrics are an array of lines. No \n needed.",
+    "lyrics": ["Hello, I'm a song,", "the best one you ever heard."],
+    "url": "https://duckduckgo.com",
+    "contributors": "RubenVerg"
+  }
+}
